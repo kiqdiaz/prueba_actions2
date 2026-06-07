@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(arp -a)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(security find-internet-password *)",
+      "Bash(git config *)"
     ]
   }
 }
