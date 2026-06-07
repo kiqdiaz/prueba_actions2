@@ -1,0 +1,12 @@
+{
+  "arp": [
+    {
+      "hostname": "_gateway",
+      "ip": "10.1.0.1",
+      "mac": "12:34:56:78:9a:bc",
+      "interface": "",
+      "flags": "",
+      "type": "ether"
+    }
+  ]
+}
