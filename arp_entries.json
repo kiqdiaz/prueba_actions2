@@ -1,0 +1,36 @@
+{
+  "arp": [
+    {
+      "hostname": "?",
+      "ip": "169.254.169.254",
+      "mac": "(incomplete)",
+      "interface": "en1",
+      "flags": "",
+      "type": "ethernet"
+    },
+    {
+      "hostname": "?",
+      "ip": "192.168.18.1",
+      "mac": "6c:44:2a:14:76:ed",
+      "interface": "en1",
+      "flags": "",
+      "type": "ethernet"
+    },
+    {
+      "hostname": "?",
+      "ip": "192.168.18.3",
+      "mac": "fc:44:82:b7:94:bd",
+      "interface": "en1",
+      "flags": "",
+      "type": "ethernet"
+    },
+    {
+      "hostname": "mdns.mcast.net",
+      "ip": "224.0.0.251",
+      "mac": "1:0:5e:0:0:fb",
+      "interface": "en1",
+      "flags": "permanent",
+      "type": ""
+    }
+  ]
+}

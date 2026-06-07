@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(arp -a)",
+      "Bash(python3 *)"
+    ]
+  }
+}
